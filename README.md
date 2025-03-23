@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif )
 <h1 align="center">Hi 👋, I'm Anamika Kumari</h1>
-<h3 align="center">A passionate java developer from India</h3>
+<h3 align="center">A passionate Full Stack Java Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/majdimokhtar/github-images/main/rightimagemajdigithub.gif?token=GHSAT0AAAAAABUZ7SAQ6CWAJ3EWM7P3WSBUY3GNLNQ">
 
@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Award Calculator**
+- 🔭 I’m currently working in **Insurance Domain**
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Angular & Kafka**
 
-- 💬 Ask me about **Golang,MongoDB**
+- 💬 Ask me about **Java and Microservices**
 
 - 📄 Know about my experiences <a href="https://shorturl.at/bip24">My Updated Resume</a>.
 
